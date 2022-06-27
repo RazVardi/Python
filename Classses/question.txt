@@ -1,0 +1,13 @@
+If we want to build student management software (or college) then as part of writing our code we will need to define a student class.
+- Define a student's class and define the following characteristics in the class:
+1. Name
+2. Enamel
+3. Add 3 more features of your choice
+4. An array of his score list
+Create methods according to the next step (see what you need and accordingly create appropriate methods)
+Then:
+Create 5 different students
+2. Print all the details about each student using toString
+3. Print for each student the average of his or her grades
+4. Print the grade point average of all students together
+Successfully:)
