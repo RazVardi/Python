@@ -57,7 +57,7 @@ class Student():
         average = sum / 4
         return average
     def getAllAverageGrade(average_grade_array):
-        total=0
+        total = 0
         for i in range(0, len(average_grade_array)):
             total += average_grade_array[i]
             averageAll = total / len(average_grade_array)
@@ -68,7 +68,7 @@ class Student():
             f"and my first grade is {self.getGrade1} ,and my second grade is {self.getGrade2},and my third grade is {self.getGrade3}," + \
             f"and my fourth grade is {self.getGrade4} and my average grade is {self.getAverageGrade}." 
     def toString2(self):
-        return f"the average grade of all the student is {self.getAllAverageGrade} ."     
+        return f"the average grade of all the student is {self.getAllAverageGrade}."     
 
 
 
